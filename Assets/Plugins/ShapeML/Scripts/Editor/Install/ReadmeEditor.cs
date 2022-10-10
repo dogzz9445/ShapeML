@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace ShapeML.Editor
 {
-    public class Readme : MonoBehaviour
+    public class ReadmeEditor : MonoBehaviour
     {
         // Start is called before the first frame update
         void Start()
